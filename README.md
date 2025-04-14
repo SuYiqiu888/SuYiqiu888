@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm SuYiqiu, an unknown Android developer
+### I'm SuYiqiu, an unknown amateur developer
 
 ## 统计信息
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SuYiqiu888&)](https://git.io/streak-stats)  
