@@ -2,7 +2,9 @@
  
  ### I'm SuYiqiu, an unknown Android developer
  
- ![Suyiqiu888/SuYiqiuGit](https://raw.githubusercontent.com/Suyiqiu888/SuYiqiuGit/master/generated/overview.svg#gh-dark-mode-only)
- ![Suyiqiu888/SuYiqiuGit](https://raw.githubusercontent.com/Suyiqiu888/SuYiqiuGit/generated/overview.svg#gh-light-mode-only)
- ![Suyiqiu888/SuYiqiuGit](https://raw.githubusercontent.com/Suyiqiu888/SuYiqiuGit/master/generated/languages.svg#gh-dark-mode-only)
- ![Suyiqiu888/SuYiqiuGit](https://raw.githubusercontent.com/Suyiqiu888/SuYiqiuGit/master/generated/languages.svg#gh-light-mode-only)
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuYiqiu888&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuYiqiu888&repo=anuraghazra.github.io&theme=buefy" />
+</a>
